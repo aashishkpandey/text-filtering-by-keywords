@@ -3,6 +3,7 @@
 #################################################
 
 library(shiny)
+library(NLP)
 library(magrittr)
 library(tidytext)
 library(dplyr)
